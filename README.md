@@ -13,7 +13,7 @@ The application is structured into two main parts:
 
 1. **Clone the Repository**
 
-git clone https://your-repository-url
+git clone https://github.com/NightSkyHoney/react-supabase-horsecare-markeplace.git
 cd horsecare-marketplace
 
 2. **Install Dependencies**
